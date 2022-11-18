@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExemploCTG" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-27T16:51:13" hostname="LAPTOP-R4FAELCB" time="8.797">
+  <properties/>
+  <testcase name="Quando pegar o site principal, entÃ£o devo ver o titulo viniciuspessoni" classname="ExemploCTG" time="8.797"/>
+  <system-out><![CDATA[Titulo encontradoTESTERGLOBAL
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 64590
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1666889476.058][WARNING]: This version of ChromeDriver has not been tested with Chrome version 107.
+out 27, 2022 1:51:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected upstream dialect: W3C
+out 27, 2022 1:51:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTÊNCIA: Unable to find an exact match for CDP version 107, so returning the closest version found: 106
+out 27, 2022 1:51:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFORMAÇÕES: Found CDP implementation for version 107 of 106
+]]></system-err>
+</testsuite>
